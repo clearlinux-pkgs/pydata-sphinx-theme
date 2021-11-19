@@ -1,0 +1,10 @@
+0.7.2
+pypi(codecov)
+pypi(jupyter_sphinx)
+pypi(numpy)
+pypi(numpydoc)
+pypi(pandas)
+pypi(plotly)
+pypi(recommonmark)
+pypi(sphinx_sitemap)
+pypi(xarray)
